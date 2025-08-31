@@ -1,0 +1,28 @@
+
+
+.list {
+    align-content: center;
+}
+
+ul, ol {
+     
+    margin: 1rem;
+    padding: 10px;
+    border: 2px solid red;
+    width: 980px;
+}
+
+li {
+    margin: 1rem;
+    padding: 10px;
+    border: 2px solid red;
+    width: 250px;
+    background-color: rgb(173, 248, 244);
+}
+
+.home {
+    border: 1px solid black;
+    padding: 8px 16px;
+    margin: 1rem;
+    background-color: beige;
+}
